@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Swoxy</h1>
 <h2 align="center">Web Developer</h2>
 
+
 ### 🛠 Tech Stack
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61)
@@ -22,9 +23,22 @@
 ![Css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
+![AfterEffects](https://aleen42.github.io/badges/src/after_effects.svg)
+![Premiere](https://aleen42.github.io/badges/src/premiere.svg)
+
 
 ### 🤝🏻 Social
 
 <p align="left">
 <a href="https://stackoverflow.com/users/13406265/swoxy" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
+</p>
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/Sw0xy">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Sw0xy&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="Sw0xy"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sw0xy&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="Sw0xy"/>
+  </a>
 </p>
