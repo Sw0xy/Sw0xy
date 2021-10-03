@@ -2,7 +2,7 @@
 <h2 align="center">Web Developer</h2>
 
 
-### 🛠 Tech Stack
+###                                         🛠 Tech Stack
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -28,9 +28,9 @@
 ![Premiere](https://aleen42.github.io/badges/src/premiere.svg)
 
 
-### 🤝🏻 Social
+###                     🤝🏻 Social
 
-<p align="left">
+<p align="center">
 <a href="https://stackoverflow.com/users/13406265/swoxy" target="blank"><img align="center" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow" /></a>
 </p>
 
