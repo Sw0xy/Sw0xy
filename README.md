@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Swoxy</h1>
 <h2 align="center">Web Developer</h2>
-###                                         🛠 Tech Stack
+
+
+###  🛠 Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 ![Golang](https://img.shields.io/badge/-Golang-black?style=flat-square&logo=go)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
