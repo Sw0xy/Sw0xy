@@ -8,7 +8,7 @@
 Hey, my name is Emre and I use Swoxy as my nickname across social medias. I'm a front-end web developer from Turkey. I'm always curious to learn more when it comes to new technologies and creative coding.
 
 ## 🛠 Skills
-Javascript, HTML, CSS, TypeScript, Python, Firebase, Prisma, TRPC, Blitz.js, Mantine
+Javascript, HTML, CSS, TailwindCSS, React, NextJS, Blitz.js, Mantine, TypeScript, Python, Firebase, Prisma, TRPC
 
 
 <h3 align="left">Support</h3>
