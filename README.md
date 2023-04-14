@@ -1,10 +1,11 @@
 ![Header](./header3.png)
 
-- 💬 Ask me about **React**
-- 📫 How to reach me **swoxy.1337@gmail.com**
+
 
 ## 🚀 About Me
 Hey, my name is Emre and I use Swoxy as my nickname across social medias. I'm a front-end web developer from Turkey. I'm always curious to learn more when it comes to new technologies and creative coding.
+- 💬 Ask me about **React**
+- 📫 How to reach me **swoxy.1337@gmail.com**
 
 ## 🛠 Skills
 Javascript, HTML, CSS, TailwindCSS, React, NextJS, Blitz.js, Mantine, TypeScript, Python, Firebase, Redux, Prisma, TRPC, Supabase, React Native, Express.js, NodeJS, GraphQL, Figma
