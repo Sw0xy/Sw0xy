@@ -1,4 +1,4 @@
-![Header](./header2.png)
+![Header](./header3.png)
 
 - 💬 Ask me about **React**
 - 📫 How to reach me **swoxy.1337@gmail.com**
