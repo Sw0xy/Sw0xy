@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+![Header](./header.png)
 
 - 💬 Ask me about **React**
 - 📫 How to reach me **swoxy.1337@gmail.com**
