@@ -1,9 +1,7 @@
-![Header](./header3.png)
-
 
 
 ## 🚀 About Me
-Hey, my name is Emre and I use Swoxy as my nickname across social medias. I'm a front-end web developer from Turkey. I'm always curious to learn more when it comes to new technologies and creative coding.
+Hey, my name is Emre and I use Swoxy as my nickname across social medias. I'm a fullstack developer from Turkey. I'm always curious to learn more when it comes to new technologies and creative coding.
 - 💬 Ask me about **React**
 - 📫 How to reach me **swoxy.1337@gmail.com**
 
